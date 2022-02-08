@@ -9,7 +9,7 @@ import json
 import sys
 import os
 
-apivoid_key = "293573c5a1b13bb19c229231fd383e46b158d003";
+apivoid_key = "";
 
 try:
    my_file = sys.argv[1];
